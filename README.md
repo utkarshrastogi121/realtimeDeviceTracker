@@ -1,3 +1,3 @@
 # realtimeDeviceTracker
 
-use npm i to install packages
+use (npm i) to install packages
